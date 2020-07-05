@@ -19,3 +19,18 @@ Das Modul ist ein Fork von peteyjaym (https://github.com/peteyjaym/MMM-fronius) 
 Das ist nicht sauber programmiert, funktioniert aber bei mir ohne Probleme. 
 
 Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, da es für mich super funktioniert.
+
+Install
+cd MagicMirror/modules `git clone https://github.com/C3TAX/MMM-fronius_new'
+
+Update
+cd MagicMirror/modules/MMM-fronius git pull
+
+Configuration
+just add the inverter ip as shown below: { module: 'MMM-fronius', position: 'top_center', config: { ipaddfr:[ 'xx.xx.xx.xx', //inverter ip ], } },
+
+Es ist keine Konfiguration erforderlich, da alle Werte fest in der Hauptdatei codiert sind.
+Fügen Sie einfach Ihre IP-Adresse des Wechselrichters hinzu.
+
+HINWEIS: Dies ist eine Quick & dirty Copy und Erweiterung die in keiner Weise optimiert ist.
+Updates wird es nnicht geben, solange es bei mir läuft....
