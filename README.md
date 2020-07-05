@@ -20,7 +20,7 @@ Das ist nicht sauber programmiert, funktioniert aber bei mir ohne Probleme.
 
 Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, da es für mich super funktioniert.
 
-<B>Install<B>
+<H1><B>Install</B></H1>
 cd MagicMirror/modules `git clone https://github.com/C3TAX/MMM-fronius_new'
 
 Update
