@@ -32,9 +32,9 @@ just add the inverter ip as shown below:<br><br>
   &nbsp;&nbsp;module: 'MMM-fronius',<br>
   &nbsp;&nbsp;position: 'top_center',<br>
   &nbsp;&nbsp;config: {<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ipaddfr: [ 'xx.xx.xx.xx', //inverter ip ],<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
-  &nbsp;&nbsp;},<br><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ipaddfr: [ 'xx.xx.xx.xx', //inverter ip ],<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;},<br><br>
 
 Es ist keine Konfiguration erforderlich, da alle Werte fest in der Hauptdatei codiert sind.<br>
 Fügen Sie einfach Ihre IP-Adresse des Wechselrichters hinzu.<br><br>
