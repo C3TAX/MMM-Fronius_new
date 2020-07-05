@@ -29,10 +29,15 @@ Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, 
 <H1><b>Configuration</b></H1>
 <b>just add the inverter ip as shown below:<br>
 {<BR>
-  module: 'MMM-fronius', position: 'top_center', config: { ipaddfr:[ 'xx.xx.xx.xx', //inverter ip ], } },
+  module: 'MMM-fronius',<br>
+  position: 'top_center',<br><br>
+  config: {<br>
+          ipaddfr: [ 'xx.xx.xx.xx', //inverter ip ],<br>
+      }<br>
+  },<br><br>
 
 Es ist keine Konfiguration erforderlich, da alle Werte fest in der Hauptdatei codiert sind.
-Fügen Sie einfach Ihre IP-Adresse des Wechselrichters hinzu.
+Fügen Sie einfach Ihre IP-Adresse des Wechselrichters hinzu.<br>
 
 HINWEIS: Dies ist eine Quick & dirty Copy und Erweiterung die in keiner Weise optimiert ist.
 Updates wird es nnicht geben, solange es bei mir läuft....
