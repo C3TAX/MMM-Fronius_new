@@ -19,7 +19,7 @@ Wenn Strom Eingespeist wird ist die Schrift für Einspeisen grün und wenn Strom
 Das Modul ist ein Fork von peteyjaym (https://github.com/peteyjaym/MMM-fronius) welches ich etwas erweitert habe.
 Das ist nicht sauber programmiert, funktioniert aber bei mir ohne Probleme. 
 
-Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, da es für mich super funktioniert.
+Wer möchte kann dies gern weiter entwickeln.
 
 <H1><B>Install</B></H1>
 <b>cd MagicMirror/modules `git clone https://github.com/C3TAX/MMM-fronius_new'</b><br>
