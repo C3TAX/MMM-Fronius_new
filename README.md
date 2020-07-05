@@ -15,7 +15,7 @@ Das Modul ziegt folgendes an und kann noch erweitert werden:
 
 Wenn Strom Eingespeist wird ist die Schrift für Einspeisen grün und wenn Strom bezogen wird, ist die Schrift für Beziehen rot.
 
-Das Module ist ein Fork von peteyjaym (https://github.com/peteyjaym/MMM-fronius) welches ich etwas erweitert habe.
+Das Modul ist ein Fork von peteyjaym (https://github.com/peteyjaym/MMM-fronius) welches ich etwas erweitert habe.
 Das ist nicht sauber programmiert, funktioniert aber bei mir ohne Probleme. 
 
 Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, da es für mich super funktioniert.
