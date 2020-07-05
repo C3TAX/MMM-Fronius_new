@@ -21,13 +21,15 @@ Das ist nicht sauber programmiert, funktioniert aber bei mir ohne Probleme.
 Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, da es für mich super funktioniert.
 
 <H1><B>Install</B></H1>
-cd MagicMirror/modules `git clone https://github.com/C3TAX/MMM-fronius_new'
+<b>cd MagicMirror/modules `git clone https://github.com/C3TAX/MMM-fronius_new'</b><br>
 
-Update
-cd MagicMirror/modules/MMM-fronius git pull
+<H2><b>Update</b></H2>
+<b>cd MagicMirror/modules/MMM-fronius git pull</b><br>
 
-Configuration
-just add the inverter ip as shown below: { module: 'MMM-fronius', position: 'top_center', config: { ipaddfr:[ 'xx.xx.xx.xx', //inverter ip ], } },
+<H1><b>Configuration</b></H1>
+<b>just add the inverter ip as shown below:<br>
+{<BR>
+  module: 'MMM-fronius', position: 'top_center', config: { ipaddfr:[ 'xx.xx.xx.xx', //inverter ip ], } },
 
 Es ist keine Konfiguration erforderlich, da alle Werte fest in der Hauptdatei codiert sind.
 Fügen Sie einfach Ihre IP-Adresse des Wechselrichters hinzu.
