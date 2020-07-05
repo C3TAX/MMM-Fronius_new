@@ -14,7 +14,7 @@ Das Modul ziegt folgendes an und kann noch erweitert werden:
 - Autonomie Grad in %
 
 Wenn Strom Eingespeist wird ist die Schrift für Einspeisen grün und wenn Strom bezogen wird, ist die Schrift für Beziehen rot.<br><br>
-<img src="https://ibb.co/qDQGYXm"></img><br><br><br>
+<a href="https://ibb.co/qDQGYXm"><img src="https://i.ibb.co/NFBh2QW/fronius.jpg" alt="fronius" border="0"></a><br><br><br>
 
 Das Modul ist ein Fork von peteyjaym (https://github.com/peteyjaym/MMM-fronius) welches ich etwas erweitert habe.
 Das ist nicht sauber programmiert, funktioniert aber bei mir ohne Probleme. 
