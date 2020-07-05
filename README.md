@@ -30,10 +30,10 @@ Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, 
 just add the inverter ip as shown below:<br><br>
 {<BR>
   &nbsp;&nbsp;module: 'MMM-fronius',<br>
-  &nbsp;&nbsp;position: 'top_center',<br><br>
+  &nbsp;&nbsp;position: 'top_center',<br>
   &nbsp;&nbsp;config: {<br>
-  &nbsp;&nbsp;&nbsp;ipaddfr: [ 'xx.xx.xx.xx', //inverter ip ],<br>
-  &nbsp;&nbsp;&nbsp;}<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ipaddfr: [ 'xx.xx.xx.xx', //inverter ip ],<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
   &nbsp;&nbsp;},<br><br>
 
 Es ist keine Konfiguration erforderlich, da alle Werte fest in der Hauptdatei codiert sind.<br>
