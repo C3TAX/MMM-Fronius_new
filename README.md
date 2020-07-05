@@ -25,7 +25,7 @@ Wer möchte kann dies gern weiter entwickeln.
 <b>cd MagicMirror/modules `git clone https://github.com/C3TAX/MMM-fronius_new'</b><br>
 
 <H2><b>Update</b></H2>
-<b>cd MagicMirror/modules/MMM-fronius git pull</b><br>
+<b>cd MagicMirror/modules/MMM-fronius_new git pull</b><br>
 
 <H1><b>Configuration</b></H1>
 just add the inverter ip as shown below:<br><br>
