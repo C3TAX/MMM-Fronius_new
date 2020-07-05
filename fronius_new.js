@@ -1,6 +1,6 @@
 "use strict";
 
-Module.register("MMM-fronius", {
+Module.register("MMM-fronius_new", {
 
     firstUpdate: true,
     result: {},
