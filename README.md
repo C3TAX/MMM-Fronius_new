@@ -27,17 +27,17 @@ Wer möchte kann dies gern weiter entwickeln. Ich werde dies nicht mehr machen, 
 <b>cd MagicMirror/modules/MMM-fronius git pull</b><br>
 
 <H1><b>Configuration</b></H1>
-<b>just add the inverter ip as shown below:<br>
+just add the inverter ip as shown below:<br><br>
 {<BR>
-  module: 'MMM-fronius',<br>
-  position: 'top_center',<br><br>
-  config: {<br>
-          ipaddfr: [ 'xx.xx.xx.xx', //inverter ip ],<br>
-      }<br>
-  },<br><br>
+  &nbsp;&nbsp;module: 'MMM-fronius',<br>
+  &nbsp;&nbsp;position: 'top_center',<br><br>
+  &nbsp;&nbsp;config: {<br>
+  &nbsp;&nbsp;&nbsp;ipaddfr: [ 'xx.xx.xx.xx', //inverter ip ],<br>
+  &nbsp;&nbsp;&nbsp;}<br>
+  &nbsp;&nbsp;},<br><br>
 
-Es ist keine Konfiguration erforderlich, da alle Werte fest in der Hauptdatei codiert sind.
-Fügen Sie einfach Ihre IP-Adresse des Wechselrichters hinzu.<br>
+Es ist keine Konfiguration erforderlich, da alle Werte fest in der Hauptdatei codiert sind.<br>
+Fügen Sie einfach Ihre IP-Adresse des Wechselrichters hinzu.<br><br>
 
-HINWEIS: Dies ist eine Quick & dirty Copy und Erweiterung die in keiner Weise optimiert ist.
+HINWEIS: Dies ist eine Quick & dirty Copy und Erweiterung die in keiner Weise optimiert ist.<br>
 Updates wird es nnicht geben, solange es bei mir läuft....
